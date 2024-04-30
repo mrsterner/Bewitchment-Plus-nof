@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Полураспад",
+  "icon": "bwplus:unicorn_blood",
+  "advancement": "bwplus:unicorn",
+  "entry_color": "3EA9ff",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Это проклятие спасет вас от отрицательных эффектов и даже спасет от смерти $(l)на короткое время$(). $(br) Однако, это проклятие убьет вас, когда будет снято. Его можно продлить, выпив больше крови единорога, или избавиться от него, воскреснув, например, с помощью $(l)Тотема Бессмертия$(), $(l:bewitchment:poppets/death_protection)Вуду-куклы защиты от смерти$() или $(l:bwplus:rituals/make_effigy)Чучела$()"
+    }
+  ]
+}

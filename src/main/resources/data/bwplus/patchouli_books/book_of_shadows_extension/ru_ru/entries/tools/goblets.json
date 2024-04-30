@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Кубки",
+  "icon": "bwplus:silver_goblet",
+  "entry_color": "3EA9ff",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Используйте вместе с $(l:bewitchment:tools/athame)Атамой$() во второй руке, чтобы пролить свою кровь, вампиры могут попытаться обмануть вас, заставив выпить ее.$(br2)Также может использоваться во второй руке при убийстве Гуманоидов для наполнения обычной кровью.$(br)Можно собирать кровь единорога.$(br)Можно поставить."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:silver_goblet",
+      "text": ""
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:gold_goblet",
+      "text": ""
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:netherite_goblet",
+      "text": ""
+    }
+  ]
+}

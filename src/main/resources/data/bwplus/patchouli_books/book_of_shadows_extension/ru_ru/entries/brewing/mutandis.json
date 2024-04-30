@@ -1,0 +1,23 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Мутандис",
+  "icon": "bwplus:mutandis",
+  "entry_color": "3EA9ff",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вызывает мутации позволяющие обращать одни растения в другие!"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bwplus:oil_crafting/mutandis",
+      "text": "Используйте костнуню муку как стартовый ингридиент"
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bwplus:oil_crafting/mutandis_brew",
+      "text": "Экстракт мутандиса вызывает мутации по площади 3x1x3."
+    }
+  ]
+}

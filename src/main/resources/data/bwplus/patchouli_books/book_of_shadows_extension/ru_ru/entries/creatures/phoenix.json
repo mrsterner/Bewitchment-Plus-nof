@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Феникс",
+  "icon": "bwplus:phoenix_spawn_egg",
+  "entry_color": "3EA9ff",
+  "advancement": "bwplus:hidden_unlocks/ectoplasm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Феникс! Птица что олецетворяет цикл перерождения, возраждаясь из собственного пепла. Призывается с помощью $(l:bewitchment:rituals/rituals#spectral_familiar)Ритуала Спектрального Фамильяра$()"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bwplus:phoenix"
+    }
+  ]
+}
