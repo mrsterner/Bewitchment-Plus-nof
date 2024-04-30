@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Чучело",
+  "icon": "bwplus:unicorn_blood",
+  "entry_color": "3EA9ff",
+  "advancement": "bwplus:unicorn",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Надо наполнить близко стоящий $(l)стенд для доспехов$() глиной и эссенцией жизни.$(br)Чучело - это временный тотем бессмертия, который заменит вас и спасет от смерти один раз. Чучело будет привязано к $(l:bewitchment:tools/taglock)Сборщик ДНК$().$(br2)"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bwplus:rituals/make_effigy",
+      "text": "Можно произвести $(l:bewitchment:rituals/rituals)Ритуал$() Чучело.$(br)$(o)Дальность ритуала составляет 16 с котом, 8 без$()$(br) Как насчет превращения в землю?"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Леший",
+  "icon": "bwplus:leshon_skull",
+  "entry_color": "3EA9ff",
+  "advancement": "bwplus:leshon",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Леший, древнее мифическое существо, обитает рядом с $(l:bwplus:introduction/yew_trees)Тисовыми деревьями$() которые встречаются в гористых районах. Убейте его, чтобы украсть его череп и надеть, чтобы унаследовать его силы. Но без помеченного тисового дерева поблизости череп будет разрушаться. Щелкните правой кнопкой мыши по тисовому бревну, чтобы пометить его как ваше."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bwplus:leshon",
+      "offset": 0.2
+    }
+  ]
+}

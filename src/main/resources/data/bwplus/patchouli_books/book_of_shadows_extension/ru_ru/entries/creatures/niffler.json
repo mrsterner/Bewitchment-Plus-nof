@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Ниффлер",
+  "icon": "bwplus:niffler_spawn_egg",
+  "entry_color": "3EA9ff",
+  "advancement": "bwplus:hidden_unlocks/ectoplasm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ниффлер - он украдет золото из ваших сундуков! Призывается с помощью $(l:bewitchment:rituals/rituals#spectral_familiar)Ритуала Спектрального Фамильяра$()"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bwplus:niffler"
+    }
+  ]
+}

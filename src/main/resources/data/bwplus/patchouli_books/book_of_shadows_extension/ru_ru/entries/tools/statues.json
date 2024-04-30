@@ -1,0 +1,42 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Статуи",
+  "icon": "minecraft:polished_blackstone",
+  "entry_color": "3EA9ff",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Декоративные статуи вашего любимого демона."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:baphomet_blackstone_statue",
+      "recipe2": "bwplus:baphomet_gold_statue"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:baphomet_netherbricks_statue",
+      "recipe2": "bwplus:lilith_blackstone_statue"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:lilith_gold_statue",
+      "recipe2": "bwplus:lilith_netherbricks_statue"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:leonard_blackstone_statue",
+      "recipe2": "bwplus:leonard_gold_statue"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:leonard_netherbricks_statue",
+      "recipe2": "bwplus:herne_blackstone_statue"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bwplus:herne_gold_statue",
+      "recipe2": "bwplus:herne_netherbricks_statue"
+    }
+  ]
+}

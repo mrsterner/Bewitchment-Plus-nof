@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Единорог",
+  "icon": "bwplus:phoenix_spawn_egg",
+  "entry_color": "3EA9ff",
+  "advancement": "bwplus:hidden_unlocks/ectoplasm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Единорог! Не смейте его убивать, это великий грех. Их кровь можно пить из кубка, чтобы спасти себя от смерти, но цена за убийство такого невинного существа будет $(l:bewitchment:curses/conducting_curses)Проклятие$() $(l:bwplus:curses/half_life)Полураспада$(). Призывается с помощью $(l:bewitchment:rituals/rituals#spectral_familiar)Ритуала Спектрального Фамильяра$()"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bwplus:unicorn"
+    }
+  ]
+}

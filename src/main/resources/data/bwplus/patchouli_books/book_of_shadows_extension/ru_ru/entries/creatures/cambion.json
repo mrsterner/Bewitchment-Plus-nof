@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Камбион",
+  "icon": "bwplus:cambion_spawn_egg",
+  "entry_color": "3EA9ff",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Встречаеться в близи деревень"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bwplus:cambion"
+    }
+  ]
+}

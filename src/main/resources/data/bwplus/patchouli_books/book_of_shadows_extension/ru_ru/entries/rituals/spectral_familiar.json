@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Спектральный Фамильяр",
+  "icon": "bwplus:soul",
+  "entry_color": "3EA9ff",
+  "advancement": "bwplus:hidden_unlocks/ectoplasm",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Что на счёт фамильяров из другой вселенной ? При смерти выподают души"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bwplus:rituals/spectral_familiar",
+      "text": "Можно провести $(l:bewitchment:rituals/rituals)Ритуал$() Спектрального Фамильяра. Убейте фамильяра, получите жуткого помошника."
+    }
+  ]
+}
